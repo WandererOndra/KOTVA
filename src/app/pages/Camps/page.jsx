@@ -30,7 +30,21 @@ export default function Camps() {
                 </div>
                 <div className=" text-base px-2 sm:px-10 md:px-20 lg:px-0 sm:text-2xl">
                     <p>{posters[currentIndex].info}</p>
-                    <p>{posters[currentIndex].actual}</p>
+                    {posters[currentIndex].actual && (
+                    <p>
+                        {posters[currentIndex].actual}
+                        {posters[currentIndex].formUrl && (
+                        <a
+                            href={posters[currentIndex].formUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-blue-600 underline hover:text-blue-800 ml-1"
+                        >
+                            zde!
+                        </a>
+                        )}
+                    </p>
+                    )}
                 </div>
                 <div className="lg:order-3 space-x-2 py-2">
             <button className="transitionBtn" onClick={prevPoster}>
