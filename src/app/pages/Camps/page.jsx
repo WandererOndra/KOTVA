@@ -43,7 +43,7 @@ export default function Camps() {
                       </a>
                     )}
                   </p>
-                )}
+                
                 </div>
                 <div className="lg:order-3 space-x-2 py-2">
             <button className="transitionBtn" onClick={prevPoster}>
