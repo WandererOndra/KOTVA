@@ -16,8 +16,6 @@ const posters = [
       year: '2025',
       title: 'Údolí věčného slunce',
       info: '🔅Vydej se s námi do světa indiánských dobrodružství!✨🏕️Letošní letní tábor volá všechny malé i velké odvážlivce, kteří se nebojí objevovat tajemství přírody, 🐾 učit se dovednosti starých indiánů 🪶 a zažít nezapomenutelné chvíle u táborového ohně.🔥Čeká nás týden plný her, příběhů, zpěvu, stopování a kamarádství.🤩👉🏻 Přidej se k nám a staň se součástí indiánského kmene! 🗿🪘🍗',
-      
-      formUrl: 'https://kotva.wufoo.com/forms/m1v7fa2g0g2kt2y/',
       width: '800',
       height: '1105'
     },  
