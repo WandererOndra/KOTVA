@@ -8,7 +8,8 @@ export default function Fun() {
 
   // Array of images for the carousel, with the latest event as the first image
   const images = [
-    "/krato.jpeg", // Current event
+    "/les.PNG", // Current event
+    "/krato.jpeg",
     "/knihovna.PNG", 
     "/museum.jpg",
     "/kviz.PNG",
