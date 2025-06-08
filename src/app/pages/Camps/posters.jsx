@@ -1,22 +1,21 @@
 
 const posters = [
     {
-      imageUrl: '/tabs6.png',
-      year: '2025',
-      title: 'Údolí věčného slunce',
-      info: '🔅Vydej se s námi do světa indiánských dobrodružství!✨🏕️Letošní letní tábor volá všechny malé i velké odvážlivce, kteří se nebojí objevovat tajemství přírody, 🐾 učit se dovednosti starých indiánů 🪶 a zažít nezapomenutelné chvíle u táborového ohně.🔥 Čeká nás týden plný her, příběhů, zpěvu, stopování a kamarádství.🤩 👉🏻Přidej se k nám a staň se součástí indiánského kmene!🗿🪘🍗',
-      actual: 'Přihláška na druhý turnus ',
-      formUrl: 'https://kotva.wufoo.com/forms/qjwodk81h5h851/',
-      width: '800',
-      height: '1105'
-    },  
-    {
       imageUrl: '/tabs5.png',
       year: '2025',
       title: 'Údolí věčného slunce',
       info: '🔅Vydej se s námi do světa indiánských dobrodružství!✨🏕️Letošní letní tábor volá všechny malé i velké odvážlivce, kteří se nebojí objevovat tajemství přírody, 🐾 učit se dovednosti starých indiánů 🪶 a zažít nezapomenutelné chvíle u táborového ohně.🔥 Čeká nás týden plný her, příběhů, zpěvu, stopování a kamarádství.🤩 👉🏻Přidej se k nám a staň se součástí indiánského kmene!🗿🪘🍗',
       actual: 'Přihláška na první turnus ',
       formUrl: 'https://kotva.wufoo.com/forms/m1v7fa2g0g2kt2y/',
+      width: '800',
+      height: '1105'
+    },  
+    {
+      imageUrl: '/tabs6.png',
+      year: '2025',
+      title: 'Údolí věčného slunce',
+      info: '🔅Vydej se s námi do světa indiánských dobrodružství!✨🏕️Letošní letní tábor volá všechny malé i velké odvážlivce, kteří se nebojí objevovat tajemství přírody, 🐾 učit se dovednosti starých indiánů 🪶 a zažít nezapomenutelné chvíle u táborového ohně.🔥 Čeká nás týden plný her, příběhů, zpěvu, stopování a kamarádství.🤩 👉🏻Přidej se k nám a staň se součástí indiánského kmene!🗿🪘🍗',
+      actual: 'Druhý turnus je již plný.',
       width: '800',
       height: '1105'
     },
